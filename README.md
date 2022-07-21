@@ -4,7 +4,6 @@
   </a><br>
   <h1 align="center">Aqui esta um Repositorio com meus projetos e exercicios feitos em HTML</a> 😃️</h1>
 </div>
-___________________________________________________________________________________________________________________________________________
-<div align="center"><br>
+
 
 
